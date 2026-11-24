@@ -1,3 +1,4 @@
+// Revision pass: a single line added above, entry untouched.
 import { mkdirSync, writeFileSync } from "node:fs";
 
 const haiku = [
